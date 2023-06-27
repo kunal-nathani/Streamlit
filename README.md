@@ -7,8 +7,8 @@ This repository contains a collection of projects built using Streamlit, a power
 ## Project List
 
 1. [Stock Price Predictor](#stock-price-predictor)
-2. [Insurance Premium Calculation App](Insurance Premium Calculation App)
-3. [Calories Burned App](Calories Burned App)
+2. [Insurance Premium Calculation App](#Insurance Premium Calculation App)
+3. [Calories Burned App](#Calories Burned App)
 ## How to Run
 
 To run any of the projects, follow these steps:
