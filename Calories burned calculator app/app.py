@@ -1,3 +1,5 @@
+from sklearn.svm import LinearSVC
+from sklearn.exceptions import NotFittedError
 import streamlit as st
 import pickle
 import pandas as pd
